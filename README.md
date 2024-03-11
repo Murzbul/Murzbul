@@ -39,14 +39,14 @@ Softwares I Use<br/><br/>
  
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
-## I'm A CTO of [DigiChanges](https://digichanges.com) & Teacher Backend of Coderhouse, but always a life student.
+## I'm a DevOps & Teacher, but always a life student.
  -  👋🏼 Hi, I’m @Nathan M. Russo
  -  😄 Adjectives: Coder, Leader and Kind Hearted.
  -  ⚡  I Like Coding, Football, Music and Playing Games.
- -  🎓 Actually I'm focus on Solidity and Software Architect.
+ -  🎓 Actually I'm focus on DevOps, Software Architect and Cibersecurity.
  -  😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
- -  👀 I'm interested in Clean Arquitecture and DevOps Culture
- -  💞️ I'm looking to collaborate on Open Source projects and help with my own boilerplate project, call NExp(node experience).
+ -  👀 I'm interested in Clean Arquitecture and DevOps Culture.
+ -  💞️ I'm looking to collaborate on Open Source projects and help with my own framework project, call NExp(node experience).
 
 ---
 
