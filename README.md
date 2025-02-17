@@ -27,7 +27,7 @@ Softwares I Use<br/><br/>
 </h2>
 
 <h2 align='left'>
-  Languages That I Know...<br/><br/>
+  Technologies that I know...<br/><br/>
 
 [![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/Murzbul)
 [![Typescript](https://img.shields.io/badge/Knows-Typescript-blue/?logo=typescript&color=blue)](https://github.com/Murzbul)
@@ -35,18 +35,18 @@ Softwares I Use<br/><br/>
 [![PHP](https://img.shields.io/badge/Knows-PHP-FFF?logo=php)](https://github.com/Murzbul)
 [![C++](https://img.shields.io/badge/Knows-C++-lightgreen?logo=cplusplus)](https://github.com/Murzbul)
 [![C#](https://img.shields.io/badge/Knows-Csharp-darkmagenta?logo=csharp)](https://github.com/Murzbul)
+[![k8s](https://img.shields.io/badge/k8s-kubernetes-blue?logo=kubernetes)](https://github.com/Murzbul)
 </h2>
- 
+
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
 ## I'm a DevOps & Teacher, but always a life student.
  -  👋🏼 Hi, I’m @Nathan M. Russo
- -  😄 Adjectives: Coder, Leader and Kind Hearted.
- -  ⚡  I Like Coding, Football, Music and Playing Games.
- -  🎓 Actually I'm focus on DevOps, Software Architect and Cibersecurity.
+ -  😄 Adjectives: Coder, Leader, and Kind Hearted.
+ -  ⚡  I Like Coding, Football, Music, and Playing Games.
+ - 🎓 Actually, I'm focusing on DevOps, Software Architect, and Cybersecurity.
  -  😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
- -  👀 I'm interested in Clean Arquitecture and DevOps Culture.
- -  💞️ I'm looking to collaborate on Open Source projects and help with my own framework project, call NExp(node experience).
+ -  👀 I'm interested in Clean architecture and DevOps Culture.
 
 ---
 
